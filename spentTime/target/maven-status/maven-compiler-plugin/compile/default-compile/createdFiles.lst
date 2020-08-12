@@ -1,0 +1,9 @@
+br/com/spentTime/model/Content.class
+br/com/spentTime/model/ContentType.class
+br/com/spentTime/model/Login.class
+br/com/spentTime/main/TestExclusion.class
+br/com/spentTime/main/ReadSpreadSheet.class
+br/com/spentTime/model/Visibility.class
+br/com/spentTime/model/Comment.class
+br/com/spentTime/model/WorkLog.class
+br/com/spentTime/main/Principal.class
